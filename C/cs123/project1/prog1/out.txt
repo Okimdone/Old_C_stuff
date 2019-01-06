@@ -1,0 +1,19 @@
+h1.txt, 11:gotoextends case transient if transient
+h1.txt, 36:for transient continue throw abstract double if abstract private charassert boolean trycase throw final continue continue byte protected double booleaninstanceoftry
+h1.txt, 39:abstract publicdefaultfinalextendsimplements if
+h1.txt, 48:boolean if throw switch void do int
+h1.txt, 49:new if
+h1.txt, 53:extendsvoid public throwtransient try public double if throws double break for
+h1.txt, 74:static char enumcase implements staticprotected transient enum throw char interface this throw public final if interface
+h1.txt, 78:boolean return static static dofinal if extends throw assert final continuefinal
+h1.txt, 81:private booleanfinaldo short enumprivatecatch continue trydo private return publicnew privatebyte if
+h1.txt, 84:import char boolean if goto abstract byte throw if break newassert default assert byte
+h1.txt, 85:abstract goto synchronized instanceof interface import if throwsenumint
+h2.txt, 6:if return defaultpackagepublic forextends abstractassert package else byteprivate short do protected
+h2.txt, 19:else if final abstractreturn final extends transient
+h2.txt, 24:short continue import do if return synchronizedtransient continue transient instanceofpackagedouble default
+h2.txt, 58:byte throwsprivatechar enum private if interface static this enum switch package package private private try interface defaultforcontinue
+h2.txt, 68:if newinterface protected transient return extends instanceof synchronized synchronizedvoid voidreturn enum throw short private instanceofcase break implementsabstract
+h2.txt, 82:if final synchronized
+h2.txt, 90:enum implements if for booleantry elseelse if staticextends interfacesynchronized void
+h2.txt, 94:double new catch if public booleaninterfacedefault default importvoid public static else
